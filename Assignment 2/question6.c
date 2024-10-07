@@ -6,7 +6,7 @@ int main ()
     char ch;
     printf("Enter a charater ");
     scanf("%c", &ch);
-    printf("ASCII code id %d", ch);
+    printf("ASCII code is %d", ch);
     printf("\n");
     return 0;
 }

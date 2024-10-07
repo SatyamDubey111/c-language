@@ -1,4 +1,4 @@
-// WAP to calculate area of ractuangle input appropriate data from the user.
+// WAP to calculate area of rectangle input appropriate data from the user.
 
 #include <stdio.h>
 int main()  

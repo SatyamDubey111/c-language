@@ -1,4 +1,4 @@
-// write a program too print "teacher's" Day on the screen"(reminder to print double quotes and single quotes)
+// write a program too print sum of two number (entered by the user).
 
 #include <stdio.h>
 int main()  

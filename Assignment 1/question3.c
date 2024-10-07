@@ -13,4 +13,4 @@ int main()
 
 }
 
-// double code ke sath print karne ke liye hame back slash ke sath print karna hoga 
+// double quotes ke sath print karne ke liye hame back slash ke sath print karna hoga 

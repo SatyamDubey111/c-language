@@ -16,7 +16,7 @@ int main()
     else if(m==4 || m==6 || m==9 || m==11)
     printf("30 days");
     else
-    printf("28 0r 29 days");   
+    printf("28 or 29 days");   
 
     printf("/n");
     return 0;
